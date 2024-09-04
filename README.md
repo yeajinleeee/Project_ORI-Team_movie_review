@@ -79,7 +79,9 @@
 	`전처리` : 
 	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
 	<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
-	    <br>
+ 	<img src="https://img.shields.io/badge/Bow-0080ff?style=for-the-badge&logo=Bow&logoColor=white">
+  	<img src="https://img.shields.io/badge/Glove-006c66?style=for-the-badge&logo=Glove&logoColor=white">
+	<img src="https://img.shields.io/badge/Word2vec-fff44f?style=for-the-badge&logo=Word2vec&logoColor=white">
 	    <br>
 	`ML 모델` : 
 	<img src="https://img.shields.io/badge/LSTM-F7931E?style=for-the-badge&logo=LSTM&logoColor=white">
@@ -96,9 +98,9 @@
 
 - 역할분담 
 	- `오승태` : 전체적인 일정 관리, 역할 분담
-	- `이예진` : EDA, 전처리, xgboost 모델 고도화
-	- `박병현` : EDA, 전처리, auto ml 적용
-   	- `서민주` : EDA, 전처리, lgbm 모델 고도화화
+	- `이예진` : EDA, 전처리, logistic회귀 모델링
+	- `박병현` : EDA, 전처리, SVM 모델링
+   	- `서민주` : EDA, 전처리, LSTM 모델링
 <br/>
 
 ## ETCs
